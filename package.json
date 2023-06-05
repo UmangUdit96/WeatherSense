@@ -1,0 +1,32 @@
+{
+  "name": "weathersense",
+  "version": "1.2.0",
+  "description": "A simple weather web application which supports precise geolocation functionality, displays accurate weather in decimal value and designed by using user-defined JavaScript and API.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UmangUdit96/WeatherSense.git"
+  },
+  "keywords": [
+    "OpenWeatherMap",
+    "OpenCageData",
+    "API",
+    "JavaScript",
+    "HTML5",
+    "CSS3"
+  ],
+  "author": "Umang Udit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UmangUdit96/WeatherSense/issues"
+  },
+  "homepage": "https://github.com/UmangUdit96/WeatherSense#readme",
+  "dependencies": {
+    "dotenv": "^16.1.4",
+    "js-logger": "^1.6.1",
+    "vite": "^4.3.9"
+  }
+}
